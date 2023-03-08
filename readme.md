@@ -11,8 +11,8 @@
 1. 克隆本项目, 并进入
 
 ```bash
-git clone https://github.com/lastarter/maccms-install.git
-cd maccms-install
+git clone https://github.com/lastarter/ubuntu-maccms10.git
+cd ubuntu-maccms10
 ```
 
 2. 基础环境配置
